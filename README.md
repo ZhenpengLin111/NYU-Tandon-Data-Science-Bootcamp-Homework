@@ -15,11 +15,11 @@ Each assignment is organized by week, and all solutions are implemented in Jupyt
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/ZhenpengLin111/NYU-Fall-2025-Data-Science-Bootcamp-Homeworks.git
+   git clone https://github.com/ZhenpengLin111/NYU-Tandon-Data-Science-Bootcamp-Homework.git
   
 2. Navigate to the desired week folder:
    ```bash
-   cd NYU-Fall-2025-Data-Science-Bootcamp-Homeworks/Week-1
+   cd NYU-Tandon-Data-Science-Bootcamp-Homework/Week-1
 
 3. Open the Jupyter Notebook:
    ```bash
