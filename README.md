@@ -51,6 +51,6 @@ Each week’s notebook contains:
 
 ## 👤 Author
 
-*Zhenpeng Lin*
+**Zhenpeng Lin**
 
 Graduate Student @ NYU
